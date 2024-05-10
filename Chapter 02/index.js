@@ -5,7 +5,7 @@ console.log(Username)
 
 //Declare a variable called myName & assign to it a string that represents your Full Name.
 
-var myName="Asma Aslam";
+var myName="Misbah Aslam";
 console.log(myName)
 
 
@@ -21,8 +21,8 @@ alert(titled)
 // Write a script to save student’s bio data in JS variables and
 // show the data in alert boxes.
 
-var studentsName= "Asma Aslam";
-var studentsAge= "15 years old";
+var studentsName= "Misbah Aslam";
+var studentsAge= "20 years old";
 var studentsDepartment= "Web and Mobile App Development";
 
 alert(studentsName);
@@ -43,7 +43,7 @@ var msg=alert("PIZZA\nPIZZ\nPIZ\nPI\nP");
 
  
 
-var email = "aslamasma486@gmail.com";
+var email = "misbahaslam000@gmail.com";
 alert("Your Email Address is: " + email);
 
 
